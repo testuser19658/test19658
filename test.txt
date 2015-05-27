@@ -2,7 +2,7 @@ new test file
 
 entered a new line on github
 edit the test file
-
+continue test branch 1 
 continue test branch 2
 no test branch 3
 
