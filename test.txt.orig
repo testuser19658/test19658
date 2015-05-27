@@ -1,7 +1,16 @@
 new test file
 
-<<<<<<< HEAD
 entered a new line on github
-=======
+<<<<<<< HEAD
 edit the test file
->>>>>>> test_branch_2
+
+continue test branch 2
+no test branch 3
+
+continue master branch
+
+editted from github
+=======
+
+continue test branch 1 
+>>>>>>> test_branch_5
