@@ -4,9 +4,13 @@ test repo
 
 
 this is a test
-<<<<<<< HEAD
-
-test branched!?
-=======
 test branch??
->>>>>>> test_branch
+<<<<<<< HEAD
+test branched!?
+
+continue with master branch
+=======
+
+
+test branch 2
+>>>>>>> test_branch_2
